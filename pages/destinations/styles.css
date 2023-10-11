@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,700;1,500&display=swap');
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+body{
+    background-color: aliceblue;
+    font-family: 'Poppins', sans-serif;
+}
+.img-1 {
+    width: 160px;
+    height: 250px;
+    overflow: hidden;
+    position: relative;
+    margin: 10px auto;
+    border-radius: 15px;
+    box-shadow: 5px 8px 12px black;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+.img-1:hover {
+    transform: scale(1.1);
+    box-shadow: 13px 15px 27px black;
+}
+.img-2 {
+    width: 160px;
+    height: 250px;
+    overflow: hidden;
+    position: relative;
+    margin: 10px auto;
+    border-radius: 15px;
+    box-shadow: 5px 8px 12px black;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+.img-2:hover {
+    transform: scale(1.1);
+    box-shadow: 13px 15px 27px black;
+}
+.img-3 {
+    width: 160px;
+    height: 250px;
+    overflow: hidden;
+    position: relative;
+    margin: 10px auto;
+    border-radius: 15px;
+    box-shadow: 5px 8px 12px black;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+.img-3:hover {
+    transform: scale(1.1);
+    box-shadow: 13px 15px 27px black;
+}
+.img-4 {
+    width: 160px;
+    height: 250px;
+    overflow: hidden;
+    position: relative;
+    margin: 10px auto;
+    border-radius: 15px;
+    box-shadow: 5px 8px 12px black;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+.img-4:hover {
+    transform: scale(1.1);
+    box-shadow: 13px 15px 27px black;
+}
+.img-5 {
+    width: 160px;
+    height: 250px;
+    overflow: hidden;
+    position: relative;
+    margin: 10px auto;
+    border-radius: 15px;
+    box-shadow: 5px 8px 12px black;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+.img-5:hover {
+    transform: scale(1.1);
+    box-shadow: 13px 15px 27px black;
+}
+.img-6 {
+    width: 160px;
+    height: 250px;
+    overflow: hidden;
+    position: relative;
+    margin: 10px auto;
+    border-radius: 15px;
+    box-shadow: 5px 8px 12px black;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+.img-6:hover {
+    transform: scale(1.1);
+    box-shadow: 13px 15px 27px black;
+}
